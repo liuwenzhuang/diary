@@ -1,0 +1,4 @@
+baseURL = "http://liuwenzhuang.github.io/diary/"
+languageCode = "en-us"
+title = "日记"
+theme = "ananke"
