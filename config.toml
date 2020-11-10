@@ -2,3 +2,6 @@ baseURL = "http://liuwenzhuang.github.io/diary/"
 languageCode = "en-us"
 title = "日记"
 theme = "ananke"
+summaryLength = 70
+[params]
+  recent_posts_number = 10
